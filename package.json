@@ -1,0 +1,16 @@
+{
+  "name": "mern-ecomm",
+  "version": "1.0.0",
+  "description": "MERN Ecommerce App",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react-bootstrap": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Bobby Schade",
+  "license": "MIT"
+}
