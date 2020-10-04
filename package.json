@@ -1,5 +1,6 @@
 {
   "name": "mern-ecomm",
+  "type": "module",
   "version": "1.0.0",
   "description": "MERN Ecommerce App",
   "main": "server.js",
